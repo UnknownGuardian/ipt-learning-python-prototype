@@ -16,7 +16,7 @@ which displays
 
 [Open our Colab notebook](https://colab.research.google.com/drive/1d53eHcuzkVFdg7OldKUdAe2-hgjU6OA6?usp=sharing) to run this program for yourself. Press the play button, to the left of the code block, to run the program. After pressing the play button, you should see the program run and produce an output, like this:
 
-![Hello World Program in Google Colab](/img/hello-world/program-output.png "San Juan Mountains")
+![Hello World Program in Google Colab](./img/hello-world/program-output.png "San Juan Mountains")
 
 ## Modify it!
 
