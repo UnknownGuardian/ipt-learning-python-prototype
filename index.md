@@ -1,4 +1,4 @@
-## Hello
+## Hello World
 
 The first program you will experience as a programmer learning a new language is the _Hello World Program_.
 
@@ -32,7 +32,12 @@ print("Hello World")
 print("Hello Matt")
 ```
 
-Run your program to show that it works!
+Run your program to show that it works! You should see
+
+```
+>> Hello World
+>> Hello Matt
+```
 
 ## Congratulations
 
