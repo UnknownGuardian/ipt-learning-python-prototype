@@ -1,3 +1,9 @@
+---
+layout: default
+title: Variables Exercise
+description: Hello World using string variables
+---
+
 ## Variables
 
 Using the first _Hello World Program_ that you made, we will introduce the concept of variables.
